@@ -1,19 +1,5 @@
-## Advance E-commerce website in  Laravel 7
+## PBL5 E-commerce website 
 
-
-#### Setup video : https://www.youtube.com/watch?v=URX5D1A5XQ4&t=19s
-
-#### Demo video :
-https://youtu.be/c5a_wrvJSJo
-
-#### Full tutorial :
-https://www.youtube.com/watch?v=FdAMucaks64&list=PLIFG3IUe1Zxo8Zvju3_kJJvoKSaIP_SC_&index=1&t=44s
-
-#### MERN ecommerce demo:
-https://youtu.be/b_xbF_XGIDI
-
-### Features :
-- ##### PWA (progressive web app)
 # ====== FRONT-END =======
 
 - Responsive Layout
@@ -23,17 +9,8 @@ https://youtu.be/b_xbF_XGIDI
 - Blog: category, tag, content, web page 
 - Module/Extension: Shipping, payment, discount, ...
 - Upload manager: banner, images,..
-- SEO support: customer URL b
-- Newsletter management
-- Contact forms with the real-time notification (Laravel Pusher)
-- Related Products, Recommendations for you in our categories
-- A Product search form
 - Laravel Socialite implement(Facebook, Google & twitter) & Customer login
-- Product Share and follow from different social platform...
 - Payment integration(Paypal)
-- Order Tracking system
-- Multi-level comment system
-many more......
 
 ## ======= ADMIN =======
 
@@ -51,18 +28,6 @@ many more......
 - Coupon Management
 - System config: email setting, info shop, maintain status,...
 - Line Chart & Pie chart ...
-- Generate order in pdf form...
-- Real time message & notification
-- Profile Settings
-Many more....
-
-
-## ======= USER DASHBOARD =======
-
-
-- Order management
-- Review Management
-- Comment Management
 - Profile Settings
 
 ### Set up :
@@ -82,29 +47,29 @@ Many more....
 11. Visit ```localhost:8000``` in your browser
 12. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```1111```. User Email/Password: ```user@gmail.com```/```1111```
 
-<p style="text-align:center">Thank You so much for your time !!!</p>
-
-
 ### Screenshots :
-![screencapture-e-shop-loc-admin-2020-08-15-15_47_37](https://user-images.githubusercontent.com/29488275/90719413-13b82200-e2d4-11ea-8ca0-f0e5551c4c9d.png)
 
-![screencapture-e-shop-loc-admin-category-2020-08-14-19_45_55](https://user-images.githubusercontent.com/29488275/90719470-3813fe80-e2d4-11ea-8f63-e6001855a945.png)
+![Screenshot (79)](https://github.com/duyhau0802/PBL5-Advance-Ecommerce-in-laravel-7-master/assets/114060333/7169f593-331a-419b-a8ba-6943009f4bb6)
 
-![screencapture-e-shop-loc-admin-product-2020-08-14-19_44_49](https://user-images.githubusercontent.com/29488275/90719534-61348f00-e2d4-11ea-8a81-409daee0ad94.png)
+![Screenshot (80)](https://github.com/duyhau0802/PBL5-Advance-Ecommerce-in-laravel-7-master/assets/114060333/0974e08d-9919-474c-9b1f-79aedadaa84f)
 
-![screencapture-e-shop-loc-user-order-show-1-2020-08-14-18_57_06](https://user-images.githubusercontent.com/29488275/90719557-71e50500-e2d4-11ea-97cf-befb1d525643.png)
+![Screenshot (81)](https://github.com/duyhau0802/PBL5-Advance-Ecommerce-in-laravel-7-master/assets/114060333/7a5ef2cf-f91f-4b0e-9b7a-0179d1e18b98)
 
-![screencapture-e-shop-loc-user-profile-2020-08-14-18_58_06](https://user-images.githubusercontent.com/29488275/90719563-7a3d4000-e2d4-11ea-9e6a-56caac13b146.png)
+![Screenshot (85)](https://github.com/duyhau0802/PBL5-Advance-Ecommerce-in-laravel-7-master/assets/114060333/0f727227-eb0b-4984-92ab-9fe75f63faf5)
 
-![screencapture-e-shop-loc-admin-post-2020-08-14-16_00_07](https://user-images.githubusercontent.com/29488275/90719572-81644e00-e2d4-11ea-9fe5-3325ab427f88.png)
+![Screenshot (86)](https://github.com/duyhau0802/PBL5-Advance-Ecommerce-in-laravel-7-master/assets/114060333/51a31cd0-790a-4615-b005-c423a0d84631)
 
-![screencapture-e-shop-loc-2020-08-14-18_19_46](https://user-images.githubusercontent.com/29488275/90719631-a1940d00-e2d4-11ea-89a3-eb36960d687d.png)
+![Screenshot (87)](https://github.com/duyhau0802/PBL5-Advance-Ecommerce-in-laravel-7-master/assets/114060333/8c887ec4-9be3-47a4-b7a0-c21aac6d37f7)
 
-![screencapture-e-shop-loc-blog-2020-08-14-18_36_21](https://user-images.githubusercontent.com/29488275/90719648-a8228480-e2d4-11ea-9c57-5ed7aef50e26.png)
+#### Admin page
+![Screenshot (82)](https://github.com/duyhau0802/PBL5-Advance-Ecommerce-in-laravel-7-master/assets/114060333/4ef684e2-9987-423e-9006-10f491e0e393)
 
-![screencapture-e-shop-loc-blog-detail-where-can-i-get-some-2020-08-14-18_43_01](https://user-images.githubusercontent.com/29488275/90719658-ace73880-e2d4-11ea-9cb2-13f2b3b0c4d2.png)
+![Screenshot (83)](https://github.com/duyhau0802/PBL5-Advance-Ecommerce-in-laravel-7-master/assets/114060333/8e262981-4455-4f6d-ba81-2a0fcd24d374)
 
-![screencapture-e-shop-loc-product-track-2020-08-14-18_51_07](https://user-images.githubusercontent.com/29488275/90719682-bbcdeb00-e2d4-11ea-8e4e-7d6bfab1c421.png)
+![Screenshot (84)](https://github.com/duyhau0802/PBL5-Advance-Ecommerce-in-laravel-7-master/assets/114060333/933b7f46-5775-4ff1-9a68-1b6a98a96e34)
 
-
+### This project using Template Name: Eshop
+- Author Name: Naimur Rahman
+- Author URI: http://www.wpthemesgrid.com/
+- Description: Eshop - eCommerce HTML5 Template.
 
